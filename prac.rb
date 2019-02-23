@@ -15,5 +15,5 @@ programmer_hash =
      }
      
     
-programmer_hash[:mera] = "hello"    
+programmer_hash[:mera] = {known_for: "saying hi", languages: "a little Ruby"}    
 puts programmer_hash
