@@ -16,4 +16,4 @@ programmer_hash =
      
     
     
-puts programmer_hash[:dennis_ritchie][:languages].to_s
+puts programmer_hash[:dennis_ritchie][:languages]
