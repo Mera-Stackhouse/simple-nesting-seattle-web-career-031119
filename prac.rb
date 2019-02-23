@@ -15,5 +15,5 @@ programmer_hash =
      }
      
     
-    
+programmer_hash[:mera] = "hello"    
 puts programmer_hash
