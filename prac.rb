@@ -15,4 +15,4 @@ programmer_hash =
      }
      
 programmer_hash[:dennis_ritchie][:languages] << "Assembly"    
-puts programmer_hash[:dennis_ritchie][:languages].is_a? Array
+puts programmer_hash[:dennis_ritchie][:languages]
