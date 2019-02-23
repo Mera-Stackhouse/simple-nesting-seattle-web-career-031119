@@ -14,6 +14,5 @@ programmer_hash =
         }
      }
      
-    
-programmer_hash[:mera] = {known_for: "saying hi", languages: "a little Ruby"}    
-puts programmer_hash
+programmer_hash[:dennis_ritchie][:languages] << "Assembly"    
+puts programmer_hash[:dennis_ritchie][:languages]
